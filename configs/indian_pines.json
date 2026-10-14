@@ -1,0 +1,9 @@
+{
+  "data_path": "data/Indian_pines.mat",
+  "labels_path": "data/Indian_pines_gt.mat",
+  "wavelength_min_nm": 400.0,
+  "wavelength_max_nm": 2500.0,
+  "target_bands": 220,
+  "seed": 42,
+  "n_estimators": 100
+}
